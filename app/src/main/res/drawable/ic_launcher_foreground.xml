@@ -1,0 +1,17 @@
+<!-- Music note with a "new" star, centred in the 108dp adaptive-icon safe zone. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:translateX="30"
+        android:translateY="30">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M30,4v26.6C28.3,29.6 26.2,29 24,29c-6.1,0 -11,4 -11,9s4.9,9 11,9 11,-4 11,-9V14h9V4H30z" />
+        <path
+            android:fillColor="#FFD54F"
+            android:pathData="M10,2l2.2,5.8 5.8,2.2 -5.8,2.2L10,18l-2.2,-5.8L2,10l5.8,-2.2z" />
+    </group>
+</vector>

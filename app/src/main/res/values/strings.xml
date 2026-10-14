@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">No Repeat Songs</string>
+    <string name="tagline">Makes a YouTube playlist with only songs you haven\'t heard yet. Play it in your YouTube app with the screen off.</string>
+
+    <string name="step_music">What do you like?</string>
+    <string name="artists_hint">Singers / artists</string>
+    <string name="artists_helper">One per line or with commas, e.g. Karan Aujla, R Nait</string>
+    <string name="genres_hint">Genres or moods</string>
+    <string name="genres_helper">One per line or with commas, e.g. punjabi sad songs</string>
+    <string name="default_genres">new punjabi songs\npunjabi romantic songs</string>
+    <string name="size_label">Songs in playlist</string>
+    <string name="size_25">25</string>
+    <string name="size_50">50</string>
+    <string name="make_playlist">Make new playlist</string>
+    <string name="need_input">Add at least one artist or genre first.</string>
+
+    <string name="play">Play playlist</string>
+    <string name="result_songs">%1$d songs you haven\'t heard</string>
+
+    <string name="memory_title">Songs already heard</string>
+    <string name="memory_count">%1$s songs remembered</string>
+    <string name="memory_help">Every song the app puts in a playlist is remembered and never added again. Import your YouTube history once so it also skips songs you heard before.</string>
+    <string name="import_history">Import YouTube history</string>
+    <string name="how_to_get_file">How to get the file</string>
+    <string name="forget_all">Forget all</string>
+
+    <string name="how_to_title">Get your YouTube history file</string>
+    <string name="how_to_body">1. Open takeout.google.com (phone or computer).\n\n2. Tap \"Deselect all\", then scroll down and tick \"YouTube and YouTube Music\".\n\n3. Tap \"All YouTube data included\", tap \"Deselect all\", and tick only \"history\". Tap OK.\n\n4. Tap \"Next step\" → \"Create export\". Google will email you a download link (can take a few minutes to a few hours).\n\n5. Download the .zip file on this phone, then tap \"Import YouTube history\" and choose that zip.</string>
+    <string name="open_takeout">Open Takeout</string>
+    <string name="close">Close</string>
+
+    <string name="forget_title">Forget all songs?</string>
+    <string name="forget_body">The app will forget every song you\'ve heard, so old songs can come back in new playlists.</string>
+    <string name="forget_confirm">Forget</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="no_app">Couldn\'t find an app to open the playlist.</string>
+</resources>

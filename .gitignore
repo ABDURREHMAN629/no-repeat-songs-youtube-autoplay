@@ -1,0 +1,21 @@
+*.iml
+.gradle
+.kotlin
+/local.properties
+local.properties
+/.idea
+.DS_Store
+/build
+/app/build
+/captures
+/dist
+*.apk
+*.aab
+*.jks
+*.keystore
+.externalNativeBuild
+.cxx
+
+# Owner's private notes for future work sessions (never published)
+/CLAUDE.md
+/_session-notes/
